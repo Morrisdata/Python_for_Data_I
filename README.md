@@ -1,4 +1,23 @@
 # Python_for_Data
+* A look at the applications used and why
+* What can you do with Python? Why not learn R or SPSS Modeler?
+* Concepts of Python Programming
+* Review of Basic String Functions
+* Review of Math functions and building calculators
+* Lists, Tuples, Sets, Dictionaries
+* Loops
+* Pandas
+
+We will be using Anaconda and more specifically spyder & Jupyter notebooks. We will also use GitHub and Gitbash.
+
+
+
+
+
+
+
+# MOVIE DATA
+
 Summary
 =======
 
