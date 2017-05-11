@@ -9,6 +9,7 @@
 * Pandas
 
 We will be using Anaconda and more specifically spyder & Jupyter notebooks. We will also use GitHub and Gitbash.
+For our final project we will explore Grouplens movie database. 
 
 
 
@@ -16,7 +17,7 @@ We will be using Anaconda and more specifically spyder & Jupyter notebooks. We w
 
 
 
-# MOVIE DATA
+## MOVIE DATA
 
 Summary
 =======
