@@ -7,4 +7,4 @@
 * Lists, Tuples, Sets, Dictionaries
 * Loops
 * Connect to AWS and running SQL
-* Pandas
+* Pandas/Matplot Lib
