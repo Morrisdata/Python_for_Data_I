@@ -4,6 +4,7 @@
 * Concepts of Python Programming
 * Review of Basic String Functions
 * Review of Math functions and building calculators
+* Conditionals (if then else)
 * Lists, Tuples, Sets, Dictionaries
 * Loops
 * Connect to AWS and running SQL
