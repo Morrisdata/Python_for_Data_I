@@ -6,4 +6,5 @@
 * Review of Math functions and building calculators
 * Lists, Tuples, Sets, Dictionaries
 * Loops
+* Connect to AWS and running SQL
 * Pandas
