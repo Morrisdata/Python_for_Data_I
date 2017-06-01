@@ -9,3 +9,5 @@
 * Loops
 * Connect to AWS and running SQL
 * Pandas/Matplot Lib
+
+[]Syntax(https://github.com/Morrisdata/Python_for_Data/blob/master/01_Py4D_syntax.py)
