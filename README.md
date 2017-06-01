@@ -10,4 +10,11 @@
 * Connect to AWS and running SQL
 * Pandas/Matplot Lib
 
-[]Syntax(https://github.com/Morrisdata/Python_for_Data/blob/master/01_Py4D_syntax.py)
+[01 Syntax](https://github.com/Morrisdata/Python_for_Data/blob/master/01_Py4D_syntax.py)
+[02_Conditionals & Functions]
+[03 Data Structures]
+[04 Loops & Lists]
+[05 Database and SQL  ]
+[06 Pandas Basic, Filtering & Sorting]
+[07 Pandas Merging and Matplotlib]
+[08 Review]
