@@ -10,15 +10,7 @@ Download [Anaconda](https://www.continuum.io/downloads), Pycharm or code editor 
 * Review of Math functions and building calculators
 * Conditionals (if then else)
 * Lists, Tuples, Sets, Dictionaries
-* Loops
-* Connect to AWS and running SQL
-* Pandas/Matplot Lib
-
-
-|WORKSHOPS|
-|:-------|
-|[01 Syntax](https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/01_Workshop_Syntax.py)|
-|[02_Conditionals & Functions]|
+* Loops(https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/02_Workshop_Conditionals%26Functions.ipynb)|
 |[03 Data Structures]|
 |[04 Loops & Lists]|
 |[05 Database and SQL  ]|
