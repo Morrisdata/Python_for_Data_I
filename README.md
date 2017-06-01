@@ -1,9 +1,10 @@
-# Python_for_Data
+# Python_for_Data(optional Prework)
 * A look at the applications used and why
 * What can you do with Python? Why not learn R or SPSS Modeler?
 * Basic setup covered in [DataScience101](https://github.com/Morrisdata/DataScience101)
 
 # Python for Data
+Anaconda, Pycharm or code editor for exercises
 * Concepts of Python Programming
 * Review of Basic String Functions
 * Review of Math functions and building calculators
