@@ -17,7 +17,7 @@ Download [Anaconda](https://www.continuum.io/downloads), Pycharm or code editor 
 
 |WORKSHOPS|
 |:-------|
-|[01 Syntax](https://github.com/Morrisdata/Python_for_Data/Notebooks/01_Workshop_Syntax.py)|
+|[01 Syntax](https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/01_Workshop_Syntax.py)|
 |[02_Conditionals & Functions]|
 |[03 Data Structures]|
 |[04 Loops & Lists]|
