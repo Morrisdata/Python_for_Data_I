@@ -10,6 +10,8 @@
 * Connect to AWS and running SQL
 * Pandas/Matplot Lib
 
+|Workshop|
+|-------:|
 |[01 Syntax](https://github.com/Morrisdata/Python_for_Data/blob/master/01_Py4D_syntax.py)|
 |[02_Conditionals & Functions]|
 |[03 Data Structures]|
