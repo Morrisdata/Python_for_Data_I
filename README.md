@@ -10,7 +10,9 @@ Download [Anaconda](https://www.continuum.io/downloads), Pycharm or code editor 
 * Review of Math functions and building calculators
 * Conditionals (if then else)
 * Lists, Tuples, Sets, Dictionaries
-* Loops(https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/02_Workshop_Conditionals%26Functions.ipynb)|
+* Loops
+|[01 Basic Syntax]|
+|[Conditionals & Functions](https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/02_Workshop_Conditionals%26Functions.ipynb)|
 |[03 Data Structures]|
 |[04 Loops & Lists]|
 |[05 Database and SQL  ]|
