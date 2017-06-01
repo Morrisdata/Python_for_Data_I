@@ -4,7 +4,7 @@
 * Basic setup covered in [DataScience101](https://github.com/Morrisdata/DataScience101)
 
 # Python for Data
-Anaconda, Pycharm or code editor for exercises
+Download [Anaconda](https://www.continuum.io/downloads), Pycharm or code editor for exercises
 * Concepts of Python Programming
 * Review of Basic String Functions
 * Review of Math functions and building calculators
