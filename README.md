@@ -11,6 +11,7 @@ Download [Anaconda](https://www.continuum.io/downloads), Pycharm or code editor 
 * Conditionals (if then else)
 * Lists, Tuples, Sets, Dictionaries
 * Loops
+
 |UNITS|
 |:----|
 |[01 Basic Syntax]|
