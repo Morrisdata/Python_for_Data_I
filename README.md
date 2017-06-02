@@ -1,3 +1,21 @@
+# Python for Data Workshop
+This workshop is meant to help someone break into programming using Python and data. The material covered is in a crash course fashion 
+and is by no means comprehensive the materials covered are a "best of". | is up to an individual to work with other courses outside of this workshop in order to get a full breadth of knowledge.  If you have not already heard of these resources and are new to python I would use them in conjunction with what you learn hear as they compliment eachother. 
+
+|Homework|
+|:-------|
+|[Learn Python the Hardway walk through](https://www.youtube.com/playlist?list=PLCHnubFzFwjJVEvQk-FuEynAuwGV_4BNS)
+This is a great way to dig into deep basic syntax with a guide!
+
+|[Learn Python the Hardway](https://learnpythonthehardway.org/)
+Remember that walkthrough video, try it without the video, gets a bit more real after about exercise 15. 
+
+|Codecademy](https://www.codecademy.com/learn/python)
+Repeat, repeat repeat, just another avenue to reinforce everything your learning
+
+
+
+
 # Python_for_Data(optional Prework)
 * A look at the applications used and why
 * What can you do with Python? Why not learn R or SPSS Modeler?
