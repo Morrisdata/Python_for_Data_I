@@ -18,7 +18,7 @@ Download [Anaconda](https://www.continuum.io/downloads), Pycharm or code editor 
 |[02 Conditionals & Functions](https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/02_Workshop_Conditionals%26Functions.ipynb)|
 |[03 Data Structures](https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/03_Data_structures.py.ipynb)|
 |[04 Loops & Lists](https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/04_Workshop_Loops&Lists.ipynb)|
-|[05 Database and SQL  ]|
+|[05 Database and SQL  ](https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/05_Workshop_Connecting_to_data.ipynb)|
 |[06 Pandas Basic, Filtering & Sorting]|
 |[07 Pandas Merging and Matplotlib]|
 |[08 Review]|
