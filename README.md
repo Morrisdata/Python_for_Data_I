@@ -5,12 +5,12 @@ and is by no means comprehensive the materials covered are a "best of".
 It is up to an individual to work with other courses outside of this workshop in order to get a full breadth of knowledge.  If you have not already heard of these resources and are new to python I would use them in conjunction with what you learn here as they compliment eachother. 
 
 |Homework|Notes|
-|:-------|-----|
+|:-------|:-----|
 |[Learn Python the Hardway walk through](https://www.youtube.com/playlist?list=PLCHnubFzFwjJVEvQk-FuEynAuwGV_4BNS)|This is a great way to dig into deep basic syntax with a guide!|
 
-|[Learn Python the Hardway](https://learnpythonthehardway.org/)||Remember that walkthrough video, try it without the video, gets a bit more real after about exercise 15.| 
+|[Learn Python the Hardway](https://learnpythonthehardway.org/)|Remember that walkthrough video, try it without the video, gets a bit more real after about exercise 15.| 
 
-|Codecademy](https://www.codecademy.com/learn/python)||Repeat, repeat repeat, just another avenue to reinforce everything your learning|
+|Codecademy](https://www.codecademy.com/learn/python)|Repeat, repeat repeat, just another avenue to reinforce everything your learning|
 
 
 
