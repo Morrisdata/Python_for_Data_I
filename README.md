@@ -20,12 +20,6 @@ It is up to an individual to work with other courses outside of this workshop in
 
 # Python for Data
 Download [Anaconda 2.7](https://www.continuum.io/downloads), Pycharm or code editor for exercises
-* Concepts of Python Programming
-* Review of Basic String Functions
-* Review of Math functions and building calculators
-* Conditionals (if then else)
-* Lists, Tuples, Sets, Dictionaries
-* Loops
 
 |UNITS|
 |:----|
