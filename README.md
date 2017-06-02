@@ -1,6 +1,8 @@
 # Python for Data Workshop
 This workshop is meant to help someone break into programming using Python and data. The material covered is in a crash course fashion 
-and is by no means comprehensive the materials covered are a "best of". | is up to an individual to work with other courses outside of this workshop in order to get a full breadth of knowledge.  If you have not already heard of these resources and are new to python I would use them in conjunction with what you learn hear as they compliment eachother. 
+and is by no means comprehensive the materials covered are a "best of". 
+
+It is up to an individual to work with other courses outside of this workshop in order to get a full breadth of knowledge.  If you have not already heard of these resources and are new to python I would use them in conjunction with what you learn here as they compliment eachother. 
 
 |Homework|
 |:-------|
