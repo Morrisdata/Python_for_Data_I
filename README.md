@@ -22,3 +22,14 @@ Download [Anaconda 2.7](https://www.continuum.io/downloads), Pycharm or code edi
 |[06 Intro to Pandas](https://github.com/Morrisdata/Python_for_Data/tree/master/Notebooks)|
 |[07 Pandas Merging and Matplotlib]|
 |[08 Review]|
+
+# Next Steps
+
+**Recommended Resources**
+
+Name | Description
+--- | ---
+[Official Pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) | Wes & Company's selection of tutorials and lectures
+[Julia Evans Pandas Cookbook](https://github.com/jvns/pandas-cookbook) | Great resource with examples from weather, bikes and 311 calls
+[Learn Pandas Tutorials](https://bitbucket.org/hrojas/learn-pandas) | A great series of Pandas tutorials from Dave Rojas
+[Research Computing Python Data PYNBs](https://github.com/ResearchComputing/Meetup-Fall-2013/tree/master/python) | A super awesome set of python notebooks from a meetup-based course exclusively devoted to pandas
