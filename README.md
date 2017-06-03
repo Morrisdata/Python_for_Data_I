@@ -30,7 +30,7 @@ Download [Anaconda 2.7](https://www.continuum.io/downloads), Pycharm or code edi
 |[05 Connecting to Data](https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/05_Workshop_Connecting_to_data.ipynb)|
 |[06 Intro to Pandas](https://github.com/Morrisdata/Python_for_Data/tree/master/Notebooks)|
 |[07 Pandas Merging and Matplotlib](https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/07_Workshop_Merging_Matplotlib.ipynb)|
-|[08 Review]|
+
 
 # Next Steps
 
