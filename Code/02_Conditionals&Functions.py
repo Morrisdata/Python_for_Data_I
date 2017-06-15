@@ -5,15 +5,16 @@ Created on Sat Jun 03 08:39:11 2017
 @author: Matthew
 """
 
-people = 100
-pineapple = 60
-antip =40
+people = 100.00
+pineapple = 60.00
+antip =40.00
 paying = "Terry"
 
-if (pineapple%people) *100 > 50: print "pinapple does belong on pizza"
+    
+if (pineapple/people)*100 > 50: print "pinapple does belong on pizza"
 else: print "pineapple does not belong on pizza"
 
-if (pineapple%people) *100 > 50 and paying <> "Terry": print "pinapple does belong on pizza"
+if (pineapple/people) *100 > 50 and paying == "Terry": print "pinapple does not belong on pizza"
 else: print "pineapple does not belong on pizza"
 
 '''Exercise
@@ -22,16 +23,17 @@ Here is a list of products and how much they cost the store to buy
 Jean_cost = 25
 Shirt_cost = 15
 Shoe_cost = 10
+
 Here is a list of what they are being sold for
-Jean_cost = 60
-Shirt_cost = 20
-Shoe_cost = 11
+Jean_price = 60
+Shirt_price = 20
+Shoe_price = 11
+
 We want to keep our margins begween 2% and 14% Create a function that evaluates the cost and the sell price
 If it is over 14% bring back directions to markdown
 If it is under 2% bring back directions to markup
 If it is in range bring back directions to keep same
-In [ ]:'''
-
+'''
 
 #IMU evaluation and suggestions.
 
@@ -56,7 +58,7 @@ print_one("this is an arguement")
 '''Notice I'm calling print_one function
 I'm then passing text as an arguement'''
 
-print_two("This is arguement1", "This is arguement2")
+print_two("1+1", "This is arguement2")
 '''I'm now calling print_two and calling 2 arguements)'''
 
 # EXERCISE
@@ -124,3 +126,4 @@ Write your first name in all lowercase into Variable 'first' and your last
 name into variable 'last' Combine your name together with upper case for first 
 letter of your first name and upper case for first letter of your last name 
 ie Terry Smith'''
+
