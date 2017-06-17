@@ -58,3 +58,14 @@ def tp(h,r):
   return h*r
 tp(10,15)
 
+
+''' EXERCISE
+Write your first name in all lowercase into Variable 'first' and your last 
+name into variable 'last' Combine your name together with upper case for first 
+letter of your first name and upper case for first letter of your last name 
+ie Terry Smith'''
+
+first = "matthew"
+last = "morris"
+
+first[0].upper()+first[1:]+' '+last[0].upper()+last[1:]
