@@ -41,6 +41,7 @@ print "The number of managers we need is:", managers_needed, "Our headcount is",
 Initial Markup (IMU) is the difference between the cost and selling price of 
 an item when it is first introduced for sale.  The formula for this calculation is: 
 Selling price – cost = Initial Markup Dollars. 
+To calculate the IMU% it is (Selling price - Cost) / Cost *100
 If a buyer brings in a line of jeans with a cost of 25 per pair and initially 
 prices them to sell at 55 per pair, the Initial Markup is 30. 
 *Create an IMU calculator''' 
@@ -48,6 +49,6 @@ prices them to sell at 55 per pair, the Initial Markup is 30.
 cost = 10.00
 price = 15.00
 IMU = price-cost
-IMU_percent= ((price-cost)/price) *100
+IMU_percent= ((price-cost)/cost) *100
 print "The cost is", cost,"the price is:", price,"The IMU is:",IMU, 
 print "The IMU percent is",IMU_percent
