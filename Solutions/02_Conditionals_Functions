@@ -1,0 +1,50 @@
+'''Exercise
+Create a function to evaluate IMU and suggest an action
+Here is a list of products and how much they cost the store to buy
+Jean_cost = 25.00
+Shirt_cost = 15.00
+Shoe_cost = 10.00
+
+Here is a list of what they are being sold for
+Jean_price = 60.00
+Shirt_price = 20.00
+Shoe_price = 11.00
+
+We want to keep our margins begween 2% and 14% Create a function that evaluates the cost and the sell price
+If it is over 14% bring back directions to markdown
+If it is under 2% bring back directions to markup
+If it is in range bring back directions to keep same
+'''
+
+#IMU evaluation and suggestions.
+#Cost
+Jean_cost = 25.00
+Shirt_cost = 15.00
+Shoe_cost = 10.00
+
+# Price
+Jean_price = 60.00
+Shirt_price = 20.00
+Shoe_price = 11.00
+
+#IMU
+JeanIMU =((Jean_price - Jean_cost)/Jean_cost)*100
+ShirtIMU =((Shirt_price - Shirt_cost)/Shirt_cost)*100
+ShoeIMU = ((Shoe_price - Shoe_cost)/Shoe_cost)*100
+
+
+
+def IMUeval():
+# Jean Eval
+    if JeanIMU > 14.00: print "Jean_cost:", Jean_cost, "Jean_price:", Jean_price,"Jean_IMU:", JeanIMU, "Markdown price"
+    elif JeanIMU < 2.00: print "Jean_cost:", Jean_cost, "Jean_price:", Jean_price,"Jean_IMU:", JeanIMU, "Markup price"
+    elif JeanIMU >=2.00 and JeanIMU <=14.00: print "Jean_cost:", Jean_cost, "Jean_price:", Jean_price,"Jean_IMU:", JeanIMU, "Keep the same"
+# Shirt eval
+    if ShirtIMU > 14.00: print "Shirt_cost:", Shirt_cost, "Shirt_price:", Shirt_price,"Shirt_IMU:", ShirtIMU, "Markdown price"
+    elif ShirtIMU < 2.00: print "Shirt_cost:", Shirt_cost, "Shirt_price:", Shirt_price,"Shirt_IMU:", ShirtIMU, "Markup price"
+    elif ShirtIMU >=2.00 and ShirtIMU <=14.00: print "Shirt_cost:", Shirt_cost, "Shirt_price:", Shirt_price,"Jean_IMU:", ShirtIMU, "Keep the same"
+#Shoe Eval
+    if ShoeIMU > 14.00: print "Shoe_cost:", Shirt_cost, "Shoe_price:", Shirt_price,"Shoe_IMU:", ShirtIMU, "Markdown price"
+    elif ShoeIMU < 2.00: print "Shoe_cost:", Shirt_cost, "Shoe_price:", Shirt_price,"Shoe_IMU:", ShirtIMU, "Markup price"
+    elif ShoeIMU >=2.00 and ShoeIMU <=14.00: print "Shoe_cost:", Shirt_cost, "Shoe_price:", Shirt_price,"Shoe_IMU:", ShoeIMU, "Keep the same"
+IMUeval()
