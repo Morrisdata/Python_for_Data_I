@@ -1,0 +1,38 @@
+# Exercise Basic Math functions
+# Create your own basic math function  mixing text and the math problem
+
+#Mean - add up all the numbers in a data set and dived by the numbers
+# Data set numbers 1,2,3,4,5,6,7
+1+2+3+4+5+6+7
+28/7
+
+# Create a boolean function that brings back the text of what you are testing 
+# and has an answer of False
+
+28/7 <2
+
+
+
+# Finish the code EXERCISE
+# Lets add some math in our variables with the above code
+
+#VARIABLES
+departments = 100.00
+headcount_by_dept = 15.00
+managers = 92.00
+employees = 1498.00
+managers_needed = departments
+total_headcount = (departments * headcount_by_dept)+ managers_needed
+
+# total_headcount minus (managers plus employees)
+total_headcount_available= managers + employees
+print total_headcount
+# employee divided by department
+
+avg_employee_per_dept = (departments/employees)*100
+
+# Create a print statement that tells you how many managers are needed, what 
+# the total headcount is, the headcount available 
+# and the average employee per department.
+print "The number of managers we need is:", managers_needed, "Our headcount is", total_headcount,
+"The average employee per department is", avg_employee_per_dept
