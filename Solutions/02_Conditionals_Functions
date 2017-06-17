@@ -48,3 +48,13 @@ def IMUeval():
     elif ShoeIMU < 2.00: print "Shoe_cost:", Shirt_cost, "Shoe_price:", Shirt_price,"Shoe_IMU:", ShirtIMU, "Markup price"
     elif ShoeIMU >=2.00 and ShoeIMU <=14.00: print "Shoe_cost:", Shirt_cost, "Shoe_price:", Shirt_price,"Shoe_IMU:", ShoeIMU, "Keep the same"
 IMUeval()
+
+
+# EXERCISE:
+# Write a function that takes two parameters (hours and rate), and returns the total pay.
+
+# Total pay
+def tp(h,r):
+  return h*r
+tp(10,15)
+
