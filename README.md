@@ -22,8 +22,11 @@ It is up to an individual to work with other courses outside of this workshop in
 Download [Anaconda 2.7](https://www.continuum.io/downloads), Pycharm or code editor for exercises
 
 WHY NOT 3.4?
-2.7 is not inferior to 3.4 they are just a tad different. 2.7 is better for learning, support and tutorials at this time. 
-Learning 2.7 will blend right into learning 3.4. Plus having both on your resume is fantastic as most legacy programs will be in 2.7.
+- 2.7 is not inferior to 3.4 they are just a tad different. 
+- 2.7 is better for learning, support and tutorials at this time. 
+- Learning 2.7 will blend right into learning 3.4. 
+- Most programs you will be working with, debugging or modifying will be in 2.7
+- Having both on your resume is fantastic.
 
 |UNITS|
 |:----|
