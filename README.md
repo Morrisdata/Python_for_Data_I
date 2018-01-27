@@ -28,7 +28,7 @@ WHY NOT 3.4?
 
 # Next Steps
 |:----|
-|[Python for Data II]TBD (feb 10th?)|
+|[Python for Data II](TBD Feb 10th?|
 |[SQL](https://generalassemb.ly/education/sql-bootcamp/seattle/46179)|
 
 
