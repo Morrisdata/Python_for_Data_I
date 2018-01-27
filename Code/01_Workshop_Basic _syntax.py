@@ -4,6 +4,7 @@ Created on Thu Jun 01 10:56:55 2017
 
 @author: Matthew
 """
+# defining a function
 
 #define lasagna():
 #    mince garlic
@@ -17,7 +18,7 @@ def ux():
     print 'OK "maybe"  one more'
 ux()
 
-# Exercise How did you get here today
+# Exercise How did you get here today?
 
 
 ### Commenting
@@ -61,7 +62,46 @@ def ux(): # def is how you start to defin a function
     print 'OK "maybe"  one more'
 ux()
 
+# STRINGS
+''' If you have ever done any amount of working with SQL or EXCEL you will be 
+familiar with the need to review and manipulate strings.
+If you have not these basic concepts may come in handy 
+in the future. '''
 
+
+
+# creating
+a = 'hello'     # can use single or double quotes
+
+# slicing
+a[0]        # returns 'h' (works like list slicing)
+
+# slicing
+a[1:3]      # returns 'el'
+
+# slicing
+a[-3]       # returns 'o'
+
+# concatenating concats are the same as Excel or SQL you can concat blanks or multiple columns
+a + ' there'        # use plus sign to combine strings
+
+# concatenating ()
+str(5) + ' there'   # cast 5 to a string in order for this to work
+
+# uppercasing
+a.upper()       # string method (this method doesn't exist for lists)
+
+# upper casing 
+a[0].upper()+a[1:] #Uppercase of first letter in word
+
+# checking length
+len(a)      # returns 5 (number of characters)
+
+''' EXERCISE
+Create a function called proper, write your first name in all lowercase into Variable 'first' and your last 
+name into variable 'last' Combine your name together with upper case for first 
+letter of your first name and upper case for first letter of your last name 
+ie Terry Smith'''
 
 
 
@@ -108,19 +148,15 @@ print 'basic boolean', 1+2<7
 
 
 # Create a boolean function that brings back the text of what you are testing 
-# and has an answer of False
-
+# and has an answer of False and 1 that has an answer of True
 
 
 
 #### Variables and Math
 '''  A variable is a container to hold a value
-
 # X = 10
 # X is a variable that now holds the number 10
-
 # I can say X+1 and get 11
-
 X = 100	
 Y = 72	
 Z = 14	
@@ -172,6 +208,22 @@ Markon or Markup. The formula for this calculation is:
 Selling price – cost = Initial Markup Dollars. 
 If a buyer brings in a line of jeans with a cost of 25 per pair and initially 
 prices them to sell at 55 per pair, the Initial Markup is 30. 
-*Create an IMU calculator''' 
+*Create an IMU calculator'''
 
 
+
+''' PROJECT EXERCISE 
+Create a function that lists all the skills you have learned so far
+rate yourself for each skill
+
+0 = Don't know
+1 = Aquiring knowledge
+2 = Can apply with 80% help from Google
+3 = Can apply with 20% help from Google
+4 = Can teach <20% help from Google
+5 = Can design, review, optimize
+
+What is your average score?
+What areas are you doing great in, what areas do you need to study?
+
+This Project will grow and be designed and redesigned several different ways.'''
