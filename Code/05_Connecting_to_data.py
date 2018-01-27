@@ -1,9 +1,86 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 03 09:41:04 2017
+''' Read and write data to a file'''
+# Open a file or create one if it is not open
+a = open("new_file.csv","w+")
 
-@author: Matthew
-"""
+# Write a line to the document
+a.write("First line in my doc.")
+# Close file
+a.close()
+
+#Open file and write a record to the file
+b = open("new_file.csv","r")
+# Read record into a variable
+c = b.readlines()
+# output results to the screen
+print c
+
+
+# Write several lines to a file and read them
+print "Opening the file..."			
+target = open("multiline.csv", 'w+')			
+
+# Use Raw_inputs to create 3 lines of in your file
+line1 = raw_input("line 1: ")
+line2 = raw_input("line 2: ")
+line3 = raw_input("line 3: ")
+
+print "I'm going to write these to the file."
+
+target.write(line1)
+target.write("\n")   # \n is a carriage return
+target.write(line2)
+target.write("\n")
+target.write(line3)
+target.write("\n")
+
+print "Close the file."
+target.close()
+
+
+
+
+
+# Find your file and review it
+# Close your file and rerun the above code using commas test, 1, blue, 2
+# Open file and see how this has behaved
+
+
+# Next append a file to the end
+  # Open the file for appending text to the end
+target = open("multiline.csv","a+")
+target.write("append_test, 4")
+target.close()
+target
+
+# Reopen your file and review
+
+
+# For reference here is examples of taking read and write then putting into loops
+def main():  
+  # Open a file for writing and create it if it doesn't exist
+  f = open("textfile.txt","w+")
+  
+  # Open the file for appending text to the end
+#  f = open("textfile.txt","a+")
+
+  # write some lines of data to the file
+  for i in range(10):
+    f.write("This is line %d\r\n" % (i+1))
+  
+  # close the file when done
+  f.close()
+  
+  # Open the file back up and read the contents
+  f = open("textfile.txt","r")
+  if f.mode == 'r': # check to make sure that the file was opened
+    # use the read() function to read the entire file
+#     contents = f.read()
+#     print contents
+    
+    fl = f.readlines() # readlines reads the individual lines into a list
+    for x in fl:
+      print x
+
 
 ''' Read Data From a file
 Lets take a look at what the code is going to do. with most code you have to 
@@ -15,97 +92,22 @@ You will want to adjust the link to navigate to where your file is located.'''
 
 # read in the drinks data
 import pandas as pd
-drinks = pd.read_csv('~/Desktop/DataScience/drinks.csv')
-drinks
-
-# Connect to a database and run SQL
-''' You may need to install psycopg2 from your CMD line type the following
-sudo apt-get install libpq-dev python-
-pip install psycopg2
-connect
-connect and run a query
-Connect to Postgres
-Connect to the Postgres Database using authentication. Catch and print a connection error if one occurs.
-'''
-#!/usr/bin/python
-import psycopg2
-import sys
- 
-
-#Define our connection string
-conn_string = "host='analyticsga.cuwj8wuu6wbh.us-west-2.rds.amazonaws.com'dbname='iowa_liquor_sales_database' user='analytics_student' password='analyticsga'"
- 
- 
-# print the connection string we will use to connect
-print "Connecting to database\n ->%s" % (conn_string)
- 
-# get a connection, if a connect cannot be made an exception will be raised here
-conn = psycopg2.connect(conn_string)
- 
-# conn.cursor will return a cursor object, you can use this cursor to perform queries
-cursor = conn.cursor()
-print "Connected!\n"
- 
-
-#### Perform a Select
-''' This example shows how to connect to a database, and then obtain and use a 
-cursor object to retrieve records from a table.'''
-
-import psycopg2
-import sys
-import pprint
-import pandas 
- 
-
-#Define our connection stri
-conn_string = "host='analyticsga.cuwj8wuu6wbh.us-west-2.rds.amazonaws.com'dbname='iowa_liquor_sales_database' user='analytics_student' password='analyticsga'"
- 
-# print the connection string we will use to connect
-print "Connecting to database\n	->%s" % (conn_string)
- 
-# get a connection, if a connect cannot be made an exception will be raised here
-conn = psycopg2.connect(conn_string)
- 
-# conn.cursor will return a cursor object, you can use this cursor to perform queries
-cursor = conn.cursor()
-print "Connected!\n"
- 
-df = pd.read_sql_query('select * from products', conn)
-df
-# retrieve the records from the database
-# records = cursor.fetchall()
- 
-# print out the records using pretty print
-# note that the NAMES of the columns are not shown, instead just indexes.
-# for most people this isn't very useful so we'll show you how to return
-# columns as a dictionary (hash) in the next example.
-# records
-
-''' EXERCISE - Explore Iowa Liquor Sales Database
-Adjust the code to review other tables in the Iowa liquor sales database:
-stores
-products
-sales (CAUTION this table will run forever change your SQL to have LIMIT of 100 records)
-'''
-
-#stores
-
-# products
-
-# sales
-
-# You may be thinking to yourself "Awesome! I'm connecting to AWS I'm running SQL, 
-# I'm seeing data this is great but... now what? We will want to explore the 
-# data further using Pandas before we do let's do a review In the next exercise you will: 
-# Define a function called mem and print off all of the things you have learned so far in this class. 
-# Do this strictly from memory. 
-
-# Define another function called rev and review the syllabus and exercises to create a list of things that were covered. 
-
-# Define a function that prints everything you learned from memory
-
-#### Review 
-'''Create you own examples of code for each section that has been covered in this series so far. 
-As you go through each section think about ways it may help you with data you would retrieve'''
+a = pd.read_csv('~\multiline.csv')
+a
 
 
+
+'''PROJECT EXERCISE
+You have been ratig your skills and evaluating areas of focus needed. 
+Review your previous code and determing how you could best write all of your
+skills into a csv with your scores.
+
+
+PART II QUIZ
+Using what you have learned design a 
+True False and Multiple Choice Python quiz. Store answers in a file
+and use conditionals to check if you answered questions correctly. Store graded
+quiz in seperate file.'''
+
+''' Next up in Python for Data II we will review how to connect to multiple
+data sources, prepare and  analyze data in Python"
