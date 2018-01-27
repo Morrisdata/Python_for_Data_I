@@ -27,9 +27,11 @@ WHY NOT 3.4?
 |[05 Writing and reading data in files](https://github.com/Morrisdata/Python_for_Data/blob/master/Code/05_Writing_and_Reading_Data.py)|
 
 # Next Steps
-|:----|
-|[Python for Data II](TBD Feb 10th?)|
-|[SQL](https://generalassemb.ly/education/sql-bootcamp/seattle/46179)|
+
+|Homework|Notes|
+|:-------|:-----|
+|[Python for Data II]|(TBD Feb 10th?)|
+|[SQL]|(https://generalassemb.ly/education/sql-bootcamp/seattle/46179)|
 
 
 |Homework|Notes|
