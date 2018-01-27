@@ -4,15 +4,7 @@ Created on Sat Jun 03 09:09:01 2017
 @author: Matthew
 """
 
-
-
-
 ''' Loops and Lists
-For and While loop
-Coin toss example
-For loop
-While loop Creating list of products
-For and While loop
 Loops are a way to reduce code and automate tasks that you would repeat over and over. 
 A loop is a sequence of instructions that are continually repeated until
 a certain condition is reached. 
