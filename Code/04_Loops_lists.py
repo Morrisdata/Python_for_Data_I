@@ -1,15 +1,10 @@
-# -*- coding: utf-8 -*-
 """
 Created on Sat Jun 03 09:09:01 2017
 
 @author: Matthew
 """
 
-#You can create a list of numbers using range
-list(range(4))
-list(range(10))
 
-#Create a range  of 100
 
 
 ''' Loops and Lists
@@ -42,11 +37,30 @@ Work and 8 hour day For loop
 So you will work 8 hours and for every 1 hour you work 
 you will look ask have I worked 8 hours yet? '''
 
+ # We will be using ranges, randint, and importing to assist with loop examples 
+
+# You can create a list of numbers using range 
+list(range(4))
+list(range(10))
+#Create a range  of 100
+
+
+
+
+# FOR work an 8 hour day
+
 for count in range(1,9):
     print "Start of hour"
     print "End of hour"
     print str(count) +" hours"
 print "Go home you have worked a full 8 hour day."
+
+''' Extra Credit
+Randint can be a big topic for our purposes we will be using it to randomly choose 1 of two numbers 0 or 1
+
+The code below is a coin flip simulator. This one is using 2 for loops and compressing some code. It may take a few passes to read through
+this and manipulate it. Keep this as an extra credit assignment'''
+
 
 from random import randint
 num = 100
@@ -59,10 +73,10 @@ for object in flips:
             results.append('Tails')
 print results
 
-#BONUS Excercise - come back to this code and update it to count the number of 
+#Excercise - come back to this code and update it to count the number of 
 # flips. Do some math to bring back results that show the % of times heads and the % of times tails
 
-# Work until boss leaves!
+# WHILE  Work until boss leaves!
 ''' This is a while loop
 You are not sure when your boss leaves so you complete a task and then look 
 over at thier desk to see if they are gone. Once they are gone your weekend starts!!!!'''
@@ -100,5 +114,16 @@ for color in ['red', 'blue', 'green']:
     
 ''' summary loops and lists
 There are for loops and that is what you want to use 9 times out of 10 because 
-they have an end. While loops can go on into oblivion. '''
-You use loops when you have a repeatable process and you want to reduce code. If youre not sure when you would use a loop just code away and when you hit something where you think, "I wish there was a way to reduce this code and only code it once...probably going to be a loop." For more information on loops checkout the documentation: http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/loops.html
+they have an end. While loops can go on into oblivion. 
+You use loops when you have a repeatable process and you want to reduce code. 
+If youre not sure when you would use a loop just code away and when you hit 
+something where you think, "I wish there was a way to reduce this code and 
+only code it once...probably going to be a loop." 
+For more information on loops checkout the documentation: 
+    http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/loops.html'''
+    
+
+''' PROJECT EXERCISE
+something that has been repeating in the project is if then else reviewing scores 
+and recommendations. Can you think of how you might use loops and lists to reduce
+the code to review scores and give recommendations?"'''
