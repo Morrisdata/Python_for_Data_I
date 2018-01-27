@@ -4,15 +4,6 @@ and is by no means comprehensive the materials covered are a "best of".
 
 It is up to an individual to work with other courses outside of this workshop in order to get a full breadth of knowledge.  If you have not already heard of these resources and are new to python I would use them in conjunction with what you learn here as they compliment eachother. 
 
-|Homework|Notes|
-|:-------|:-----|
-|[Learn Python the Hardway walk through](https://www.youtube.com/playlist?list=PLCHnubFzFwjJVEvQk-FuEynAuwGV_4BNS)|This is a great way to dig into deep basic syntax with a guide!|
-|[Learn Python the Hardway](https://learnpythonthehardway.org/)|Remember that walkthrough video, try it without the video, gets a bit more real after about exercise 15.| 
-|[Codecademy](https://www.codecademy.com/learn/python)|Repeat, repeat repeat, just another avenue to reinforce everything your learning|
-
-
-
-
 # Python_for_Data(optional Prework)
 * A look at the applications used and why
 * What can you do with Python? Why not learn R or SPSS Modeler?
@@ -35,11 +26,18 @@ WHY NOT 3.4?
 |[04 Loops & Lists](https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/04_Workshop_Loops&Lists.ipynb)|
 |[05 Writing and reading data in files](https://github.com/Morrisdata/Python_for_Data/blob/master/Code/05_Writing_and_Reading_Data.py)|
 
-
-
 # Next Steps
+|:----|
 |[Python for Data II]TBD (feb 10th?)|
 |[SQL](https://generalassemb.ly/education/sql-bootcamp/seattle/46179)|
+
+
+|Homework|Notes|
+|:-------|:-----|
+|[Learn Python the Hardway walk through](https://www.youtube.com/playlist?list=PLCHnubFzFwjJVEvQk-FuEynAuwGV_4BNS)|This is a great way to dig into deep basic syntax with a guide!|
+|[Learn Python the Hardway](https://learnpythonthehardway.org/)|Remember that walkthrough video, try it without the video, gets a bit more real after about exercise 15.| 
+|[Codecademy](https://www.codecademy.com/learn/python)|Repeat, repeat repeat, just another avenue to reinforce everything your learning|
+
 **Recommended Resources**
 
 Name | Description
