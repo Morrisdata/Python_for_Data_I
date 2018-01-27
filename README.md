@@ -38,8 +38,8 @@ WHY NOT 3.4?
 
 
 # Next Steps
-|[Python for Data II]|TBD (feb 10th?)
-|[SQL]|(https://generalassemb.ly/education/sql-bootcamp/seattle/46179)
+|[Python for Data II]TBD (feb 10th?)|
+|[SQL](https://generalassemb.ly/education/sql-bootcamp/seattle/46179)|
 **Recommended Resources**
 
 Name | Description
