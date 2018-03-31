@@ -1,3 +1,4 @@
+
 ''' Read and write data to a file'''
 # Open a file or create one if it is not open
 a = open("new_file.csv","w+")
@@ -95,7 +96,9 @@ import pandas as pd
 a = pd.read_csv('~\multiline.csv')
 a
 
-
+# Read a dataset from your desktop
+b = pd.read_csv('C:\Users\Matthew\Desktop\DATASETS\RATS.csv')
+b
 
 '''PROJECT EXERCISE
 You have been rating your skills and evaluating areas of focus needed. 
