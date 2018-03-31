@@ -1,10 +1,10 @@
-"""
-Created on Sat Jun 03 09:09:01 2017
-
-@author: Matthew
-"""
 
 ''' Loops and Lists
+For and While loop
+Coin toss example
+For loop
+While loop Creating list of products
+For and While loop
 Loops are a way to reduce code and automate tasks that you would repeat over and over. 
 A loop is a sequence of instructions that are continually repeated until
 a certain condition is reached. 
@@ -40,6 +40,13 @@ list(range(10))
 
 
 # FOR work an 8 hour day
+''' FOR container IN values:
+        do something
+
+In these values we are going to do something and put them in a container'''
+
+
+
 
 for count in range(1,9):
     print "Start of hour"
