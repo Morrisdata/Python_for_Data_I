@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 03 08:39:11 2017
 
-@author: Matthew
-"""
 '''		
 As a coder search engines like google and sites like stack overflow can be
 your best resources for coding. Take a moment and do a google search for raw_input()
