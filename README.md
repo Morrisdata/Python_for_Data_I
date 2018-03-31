@@ -30,10 +30,10 @@ WHY NOT 3.4?
 
 |Homework|Notes|
 |:-------|:-----|
-|[Python for Data II]|(TBD Feb 10th?)|
-|[SQL]|(https://generalassemb.ly/education/sql-bootcamp/seattle/46179)|
-|[10 Week Data Analytics]| (https://generalassemb.ly/education/data-analytics)|
-|[10 Week Data Science]|(https://generalassemb.ly/education/data-science)|
+|[Python for Data II]|(TBD June)|
+|[SQL_BootCamp](https://generalassemb.ly/education/sql-bootcamp/seattle/46179)|
+|[10 Week Data Analytics](https://generalassemb.ly/education/data-analytics)|
+|[10 Week Data Science](https://generalassemb.ly/education/data-science)|
 
 
 |Homework|Notes|
