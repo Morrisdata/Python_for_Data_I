@@ -98,7 +98,7 @@ a
 
 
 '''PROJECT EXERCISE
-You have been ratig your skills and evaluating areas of focus needed. 
+You have been rating your skills and evaluating areas of focus needed. 
 Review your previous code and determing how you could best write all of your
 skills into a csv with your scores.
 
