@@ -1,4 +1,4 @@
-# Python for Data Workshop
+# Python for Data I Workshop
 This workshop is meant to help someone break into programming using Python and data. The material covered is in a crash course fashion 
 and is by no means comprehensive the materials covered are a "best of". 
 
