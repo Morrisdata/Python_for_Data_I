@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 01 10:56:55 2017
 
-@author: Matthew
-"""
 # defining a function
 
 #define lasagna():
@@ -15,7 +10,9 @@ def ux():
     print "Here is a function that listing out printing techniques."
     print 'Single quotes work too!'
     print "I'd  'use' double quotes to encapsulate 'single' quotes in your prints."
-    print 'OK "maybe"  one more'
+    print (''' Sometimes you need to include more detail when that is the case
+           you can use parentheses and triple quotes in order to print 
+           multiple lines''')
 ux()
 
 # Exercise How did you get here today?
@@ -144,7 +141,8 @@ print 'basic boolean', 1+2<7
 
 
 # Exercise Basic Math functions
-# Create your own basic math function  mixing text and the math problem
+# Create your own basic math function  mixing text and the math problem maybe 
+# one from work or a budget you are working on.
 
 
 # Create a boolean function that brings back the text of what you are testing 
@@ -226,4 +224,5 @@ rate yourself for each skill
 What is your average score?
 What areas are you doing great in, what areas do you need to study?
 
-This Project will grow and be designed and redesigned several different ways.'''
+This Project will grow and be designed and redesigned several different ways
+as you progress and revist.'''
