@@ -32,6 +32,8 @@ WHY NOT 3.4?
 |:-------|:-----|
 |[Python for Data II]|(TBD Feb 10th?)|
 |[SQL]|(https://generalassemb.ly/education/sql-bootcamp/seattle/46179)|
+|[10 Week Data Analytics]| (https://generalassemb.ly/education/data-analytics)|
+|[10 Week Data Science]|(https://generalassemb.ly/education/data-science)|
 
 
 |Homework|Notes|
