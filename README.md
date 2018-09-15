@@ -1,6 +1,6 @@
 # Python for Data I Workshop
 This workshop is meant to help someone break into programming using Python and data. The material covered is in a crash course fashion 
-and is by no means comprehensive the materials covered are a "best of". 
+and is by no means comprehensive. The materials covered are a "best of". 
 
 It is up to an individual to work with other courses outside of this workshop in order to get a full breadth of knowledge.  If you have not already heard of these resources and are new to python I would use them in conjunction with what you learn here as they compliment eachother. 
 
@@ -10,27 +10,28 @@ It is up to an individual to work with other courses outside of this workshop in
 * Basic setup covered in [DataScience101](https://github.com/Morrisdata/DataScience101)
 
 # Python for Data
-Download [Anaconda 2.7](https://www.continuum.io/downloads), Pycharm or code editor for exercises
+Download [Anaconda with python 3.6 or 7](https://www.continuum.io/downloads), Pycharm or code editor for exercises
 
-WHY NOT 3.4?
-- 2.7 is better for learning, support and tutorials at this time. 
-- Learning 2.7 will blend right into learning 3.4. 
+WHY NOT 2.7?
+- 2.7 until recently were better for learning, support and tutorials. 
+- Learning 2.7 is still a huge value and is not terribly different in princple from 3. 
 - Most programs you will be working with, debugging or modifying will be in 2.7
 - Having both on your resume is fantastic.
 
 |UNITS|
 |:----|
-|[01 Basic Syntax](https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/01_Workshop_Syntax.py)|
-|[02 Conditionals & Functions](https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/02_Workshop_Conditionals%26Functions.ipynb)|
-|[03 Data Structures](https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/03_Data_structures.py.ipynb)|
-|[04 Loops & Lists](https://github.com/Morrisdata/Python_for_Data/blob/master/Notebooks/04_Workshop_Loops&Lists.ipynb)|
-|[05 Writing and reading data in files](https://github.com/Morrisdata/Python_for_Data/blob/master/Code/05_Writing_and_Reading_Data.py)|
+|[01 Python for data Intro](https://github.com/Morrisdata/Python_for_Data_I/blob/master/New_Code/01_python_for_data_I_intro.py)|
+|[02 Working with Files](https://github.com/Morrisdata/Python_for_Data_I/blob/master/New_Code/02_python_for_data_I_files.py)|
+|[03 Conditionals&Functions](https://github.com/Morrisdata/Python_for_Data_I/blob/master/New_Code/03_python_for_data_I_conditionals%26functions.py)|
+|[04 Data Structures](https://github.com/Morrisdata/Python_for_Data_I/blob/master/New_Code/04_python_for_data_I_data_structures.py)|
+|[05 Functions](https://github.com/Morrisdata/Python_for_Data_I/blob/master/New_Code/05_python_for_data_I_functions_math.py)|
+|[06 Loops and Lists](https://github.com/Morrisdata/Python_for_Data_I/blob/master/New_Code/06_python_for_data_I_loops_lists.py)
 
 # Next Steps
 
 |Homework|Notes|
 |:-------|:-----|
-|[Python for Data II]|(TBD June)|
+|[Python for Data II]|(TBD NOV)|
 |[SQL_BootCamp](https://generalassemb.ly/education/sql-bootcamp/seattle/46179)|
 |[10 Week Data Analytics](https://generalassemb.ly/education/data-analytics)|
 |[10 Week Data Science](https://generalassemb.ly/education/data-science)|
