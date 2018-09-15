@@ -1,6 +1,15 @@
+# Python for Data I
+# Matthew Morris 
+# Matthewmorris.da@gmail.com
+# dev2018
 
-''' 
-Loops and Lists
+##################################################################################
+## LOOPS and LISTS
+##################################################################################
+'''
+You don't have to do lists but you will eventually want to in order
+to avoid hand cramps from so much typing and headaches from the mental
+math of basically doing loops manually. 
 
 Loops are a way to reduce code and automate tasks that you would 
 repeat over and over. 
@@ -24,7 +33,6 @@ determine whether it should run the loop 1 more time.
 WASH
 RINSE
 until clean
-
 '''
 ###############################################################################
 # FOR LOOP                                                                   ##
@@ -67,6 +75,8 @@ for color in ['red', 'blue', 'green']:
         print ('Blue')
     else: print('Green')
     print(color)
+
+
     
 
 ## EXERCISE
@@ -172,16 +182,16 @@ boss_is_still_working_on_your_review = True
 count = 0
 #stay at work as long as your boss is working on your review
 while boss_is_still_working_on_your_review:	
-    print "Heads down and complete a task!"	
-    print "When task is finished see if they are gone!"	
+    print ("Heads down and complete a task!"	)
+    print ("When task is finished see if they are gone!")	
     count +=1
-    print str(count) +" task(s) complete, good job!"
+    print (str(count) +" task(s) complete, good job!")
     print
     
     #Boss will randomly leave
     if random.randrange(0,10) ==0:
         boss_is_still_working_on_your_review = False
-        print "Go home you hard worker, boss is gone"
+        print ("Go home you hard worker, boss is gone")
 
 # Simpler example
 nums = [1,2,3,4,5]
@@ -252,7 +262,12 @@ For more information on loops checkout the documentation:
 ''' PROJECT EXERCISE
 something that has been repeating in the project is if then else reviewing scores 
 and recommendations. Can you think of how you might use loops and lists to reduce
-the code to review scores and give recommendations?"'''
+the code to review scores and give recommendations?"
+Take a look at unit one and working with files. 
+Wouldn't it be great if you could use inputs into calculators then have that in
+loops and lists to update these files. 
+Yes this entire course is a loop, keep running it with your Skills assesment/Quiz/TrainingTracker/...
+'''
     
 ###############################################################################    
 ##  BONUS Dictionaries and functions with lists                              ##
@@ -298,6 +313,5 @@ def count(numbers):
 x = ['WA', 'ID', 'OR', 'WA','NOTWA','wa', 'WASHINGTON','OR','CA','WA' ]
 y = count(x)
 print (y)
-
 
 
