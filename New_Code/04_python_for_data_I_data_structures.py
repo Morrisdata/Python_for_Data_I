@@ -1,3 +1,7 @@
+# Python for Data I
+# Matthew Morris 
+# Matthewmorris.da@gmail.com
+# dev2018
 
 ############################################################################### 
 ##             INTRO TO LIST [ ] TUPLES () DICTIONARIES{}                    ##
@@ -44,7 +48,7 @@ a
 
 ### slicing
 a[0]        # returns 1 (Python is zero indexed)
-a[1:3]      # returns [2, 3] (inclusive of first index but exclusive of second)
+a[0:3]      # returns [2, 3] (inclusive of first index but exclusive of second)
 a[-1]       # returns 5 (last element)
 
 
