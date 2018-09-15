@@ -1,7 +1,7 @@
-# python for data I
+# Python for Data I
 # Matthew Morris 
-#Matthewmorris.da@gmail.com
-# dev 2015 - 2018
+# Matthewmorris.da@gmail.com
+# dev2018
 
 ###############################################################################
 ##                       WORKING WITH FILES                                  ##
