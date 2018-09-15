@@ -1,3 +1,12 @@
+# Python for data I
+# Matthew Morris 
+###############################################################################
+##                      INTRO TO PYTHON, READING FILES                       ##
+###############################################################################
+
+
+########################COMMENTING YOUR CODE###################################
+
 # Enter one line of comments
 ''' 
 Enter
@@ -45,6 +54,9 @@ Statements - statement is a line of code
  1 statement per line while code line reduction is good multiple statements
  per line is not
 '''
+
+##############EXAMPLES OF GOOD CODE VS BAD CODE################################
+
 # Good code
 import platform
 print (platform.python_version())
@@ -52,13 +64,13 @@ print("let's get to the hands on exercises!")
 
 # Better code
 import platform
-print (platform.python_version())+" "+("let's get to the hands on exercises!")
+print ((platform.python_version())+" "+("let's get to the hands on exercises!"))
 
 # Bad code
 import platform
 print(platform.python_version()); print("let's get to the hands on exercises")
 
-
+##############CODING USES CODING USES CODING ##################################
 # Brief over view of coding
 def traffic_cop():
     go()
@@ -68,19 +80,35 @@ def go():
 
 traffic_cop()
 
-print("Mad_libs is a {} game.".format("fun")
+################ Passing variables into text###################################
+##Example 1
 x = "fun"
 print("Mad_libs is a {} game".format(x))
 
+##Example 2
+print("Mad_libs is a {} game.".format("fun"))
+
+
+# variables often times are loaded into variables
 x = "fun"
 y = "dog"
 print("Mad_libs is a {} game. I like to play with my {}.".format(x,y))
 
-# variables oftent times are loaded into variables
+
 x = "fun"
 y = "dog"
 z = "Mad_libs is a {} game. I like to play with my {}.".format(x,y)
 print (z)
+
+
+
+
+
+
+
+
+
+
 
 
 
