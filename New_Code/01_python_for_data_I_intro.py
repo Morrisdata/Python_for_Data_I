@@ -1,7 +1,7 @@
 # Python for data I
 # Matthew Morris 
 ###############################################################################
-##                      INTRO TO PYTHON, READING FILES                       ##
+##                      INTRO TO PYTHON, BASIC CODE CONCEPTS                 ##
 ###############################################################################
 
 
