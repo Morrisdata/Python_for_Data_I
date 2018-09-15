@@ -1,3 +1,7 @@
+# Python for Data I
+# Matthew Morris 
+# Matthewmorris.da@gmail.com
+# dev2018
 ###############################################################################
 ##                 FUNCTIONS, PRINTING, MATH, VARIABLES                      ##
 ###############################################################################
