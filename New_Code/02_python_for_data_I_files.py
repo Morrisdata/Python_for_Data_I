@@ -48,12 +48,12 @@ os.chdir(path)
 import os
 files = os.listdir()
 files
-os.getcwd()
+
 
 # shutil(src,dst) Move files
 '''
 1. Create a two folders on your desktop 1 called Hotel and 1 called Conference. 
-2. Create a file in your source folder called passenger.txt
+2. Create a file in your hotel folder called passenger.txt
 3. Use shutil to move your passenger file back and forth from your Hotel to Conference
 4. Check your folders to validate the file has moved, then try moving it back
 '''
@@ -84,8 +84,11 @@ shutil.move('C://Users//Matthew//Desktop//GA//00_DATA_SETS//sales.csv',
 
 shutil.move('C://Users//Matthew//Desktop//GA//00_DATA_SETS//products.csv',
             'C://Users//Matthew//Desktop//GA//00_DATA_SETS//iowaliquor//products.csv')
+
+
+
 # open readlines 
-a = open("rats.csv") # you may need to work with your path
+a = open("titanic.csv") # you may need to work with your path
 a.readlines()
 
 
@@ -233,7 +236,7 @@ cursor object to retrieve records from a table.'''
 import psycopg2
 import sys
 import pprint
-import pandas 
+import pandas as pd 
  
 
 #Define our connection stri
@@ -248,6 +251,4 @@ conn = psycopg2.connect(conn_string)
 cursor = conn.cursor()
 print ("Connected!\n")
  
-df = pd.read_sql_query('select item_no from products', conn)
 df
-
