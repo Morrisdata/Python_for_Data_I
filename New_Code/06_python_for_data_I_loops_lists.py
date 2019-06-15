@@ -1,11 +1,14 @@
 # Python for Data I
 # Matthew Morris 
 # Matthewmorris.da@gmail.com
-# dev2018
 
-##################################################################################
-## LOOPS and LISTS
-##################################################################################
+############################################################################### 
+##                    PYTHON FOR DATA I - UNIT 5
+##                         LOOPS AND LISTS    
+## FOR LOOP
+## WHILE LOOP
+## LOOPS AND LISTS
+###############################################################################
 '''
 You don't have to do lists but you will eventually want to in order
 to avoid hand cramps from so much typing and headaches from the mental
@@ -313,5 +316,6 @@ def count(numbers):
 x = ['WA', 'ID', 'OR', 'WA','NOTWA','wa', 'WASHINGTON','OR','CA','WA' ]
 y = count(x)
 print (y)
+
 
 
