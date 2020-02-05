@@ -47,7 +47,7 @@ WHY NOT 2.7?
 
 ***Python General***
 Name | Description
---- | ---
+|:--- |:---|
 [Automate the Boring Stuff](https://automatetheboringstuff.com/)|Review and then a lot more|
 [Python Language Reference](https://docs.python.org/3/reference/index.html#reference-index)|Good as reference|
 [Python Standard Library](https://docs.python.org/3/library/index.html)|
