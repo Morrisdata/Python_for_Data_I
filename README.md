@@ -57,6 +57,7 @@ WHY NOT 2.7?
 |[LearningPython](https://www.learnpython.org/) |Review of the above but then begins to progress into NumPy and Pandas|
 
 ***Pandas***
+
 |Name | Description|
 |:-------|:-----|
 |[10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)|Excellent starter into Pandas|
