@@ -21,11 +21,11 @@ WHY NOT 2.7?
 |UNITS|
 |:----|
 |[01 Python for data Intro](https://github.com/Morrisdata/Python_for_Data_I/blob/master/New_Code/01_python_for_data_I_intro.py)|
-|[02 Working with Files](https://github.com/Morrisdata/Python_for_Data_I/blob/master/New_Code/02_python_for_data_I_files.py)|
-|[03 Conditionals&Functions](https://github.com/Morrisdata/Python_for_Data_I/blob/master/New_Code/03_python_for_data_I_conditionals%26functions.py)|
-|[04 Data Structures](https://github.com/Morrisdata/Python_for_Data_I/blob/master/New_Code/04_python_for_data_I_data_structures.py)|
-|[05 Functions](https://github.com/Morrisdata/Python_for_Data_I/blob/master/New_Code/05_python_for_data_I_functions_math.py)|
-|[06 Loops and Lists](https://github.com/Morrisdata/Python_for_Data_I/blob/master/New_Code/06_python_for_data_I_loops_lists.py)
+|[02 Math and Boolean]||
+|[03 Conditionals&Functions]|
+|[04 Data Structures]|
+|[05 Functions]|
+|[06 Loops and Lists]|
 
 # Next Steps
 
