@@ -31,10 +31,12 @@ WHY NOT 2.7?
 
 |Homework|Notes|
 |:-------|:-----|
-|[Python for Data II]|(TBD NOV)|
-|[SQL_BootCamp](https://generalassemb.ly/education/sql-bootcamp/seattle/46179)|
-|[10 Week Data Analytics](https://generalassemb.ly/education/data-analytics)|
-|[10 Week Data Science](https://generalassemb.ly/education/data-science)|
+|[Python for Data II]|(TBD)|
+|[Python for Data III]|(TBD)|
+|[SQL_BootCamp](6hours in PostGres)|
+|[Alterxy to Tableau](Automate Everything)|
+|[10 Week Data Analytics]|Excel, Basic Stats, SQL(PostGres), Tableau(data viz)|
+|[10 Week Data Science]|(TBD)|
 
 
 |Homework|Notes|
