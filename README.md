@@ -27,16 +27,17 @@ WHY NOT 2.7?
 |[05 Functions]|
 |[06 Loops and Lists]|
 
-# Next Steps
+# Related Workshops
 
 |Homework|Notes|
 |:-------|:-----|
-|[Python for Data II]|Lambdas, Jupyter, and more|
-|[Python for Data III]|Pandas|
-|[SQL_BootCamp]|PostGres 6hrs|
-|[Alterxy to Tableau]|Automate Everything 6hrs|
-|[10 Week Data Analytics]|Excel, Basic Stats, SQL(PostGres), Tableau(data viz)|
-|[10 Week Oracle] |Advanced SQL and Introduction into Data management |
+|[Intro to Data Analytics 2hrs]| Dialogue and overview on what Data Analytics is, Skills needed and jobs in the field
+|[Python for Data II 6-10hrs]|Lambdas, Jupyter, and more|
+|[Python for Data III 6-10hrs]|Pandas|
+|[SQL_BootCamp 6-8hrs]|PostGres SQL|
+|[10 Week Data Analytics 46 - 50hrs]|Excel, Basic Stats, SQL(PostGres), Tableau(data viz)|
+|[Alterxy to Tableau 6hrs]|Automate Everything 6hrs|
+|[10 Week Oracle 46- 50hrs] |Advanced SQL and Introduction into Data management |
 |[10 Week Data Science]|(TBD)|
 
 
