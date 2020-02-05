@@ -20,7 +20,7 @@ WHY NOT 2.7?
 
 |UNITS|
 |:----|
-|[01 Python for data Intro](https://github.com/Morrisdata/Python_for_Data_I/blob/master/Workbook/PD01Unit01a_Worksheet)|
+|[01 Python for data Intro](https://github.com/Morrisdata/Python_for_Data_I/tree/master/Workbook)|
 |[02 Math and Boolean]||
 |[03 Conditionals&Functions]|
 |[04 Data Structures]|
