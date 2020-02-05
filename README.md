@@ -67,7 +67,7 @@ WHY NOT 2.7?
 |[How to clean data with Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html) Bottom of page how to clean data with Pandas|
 |[Cast object to specified Pandas datatype](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.astype.html)|Good code examples|
 |[Pandas Top 10]|(http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/)| Useful and hard to find features |
-|[Essential Basics|(https://pandas.pydata.org/pandas-docs/stable/getting_started/basics.html)| Build fluency and understanding|
+|[Essential Basics]|(https://pandas.pydata.org/pandas-docs/stable/getting_started/basics.html)| Build fluency and understanding|
 |[Summerizing, Aggregating, Grouping in Pandas]| (https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)| Nice write up on subject|
 |[Missing data]|(https://chrisalbon.com/python/data_wrangling/pandas_missing_data/)|Good for troubleshooting|
 |[Official Pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) | Wes & Company's selection of tutorials and lectures|
