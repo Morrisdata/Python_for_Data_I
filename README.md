@@ -45,8 +45,27 @@ WHY NOT 2.7?
 
 **Recommended Resources**
 
+***Python General***
 Name | Description
 --- | ---
+[Automate the Boring Stuff](https://automatetheboringstuff.com/)|Review and then a lot more
+[Python Language Reference](https://docs.python.org/3/reference/index.html#reference-index)|Good as reference
+[Python Standard Library](https://docs.python.org/3/library/index.html)
+[Python Tutorial Point](https://www.tutorialspoint.com/python/python_useful_resources.htm)
+[W3 Schools](https://www.w3schools.com/python/default.asp)| good tutorial and reference
+[LearningPython](https://www.learnpython.org/) |Review of the above but then begins to progress into NumPy and Pandas
+
+***Pandas***
+[10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)-Excellent starter into Pandas
+[Pandas tutorial Data Frames in Python](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
+[Pandas getting started](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
+[Data Munging in Python with Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
+[How to clean data with Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html) Bottom of page how to clean data with Pandas
+[Cast object to specified Pandas datatype](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.astype.html)
+
+
+
+
 [Official Pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) | Wes & Company's selection of tutorials and lectures
 [Julia Evans Pandas Cookbook](https://github.com/jvns/pandas-cookbook) | Great resource with examples from weather, bikes and 311 calls
 [Learn Pandas Tutorials](https://bitbucket.org/hrojas/learn-pandas) | A great series of Pandas tutorials from Dave Rojas
