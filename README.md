@@ -52,12 +52,14 @@ WHY NOT 2.7?
 |[Automate the Boring Stuff](https://automatetheboringstuff.com/)|Review and then a lot more|
 |[Python Language Reference](https://docs.python.org/3/reference/index.html#reference-index)|Good as reference|
 |[Python Standard Library](https://docs.python.org/3/library/index.html)|Library reference |
-|[Python Tutorial Point](https://www.tutorialspoint.com/python/python_useful_resources.htm)| Review and more review|
+|[Python Tutorial Point](https://www.tutorialspoint.com/python/python_useful_resources.htm)| Good Navigation + additional links|
 |[W3 Schools](https://www.w3schools.com/python/default.asp)| good tutorial and reference|
 |[LearningPython](https://www.learnpython.org/) |Review of the above but then begins to progress into NumPy and Pandas|
 
 ***Pandas***
-|[10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)-Excellent starter into Pandas|
+|Name | Description|
+|:-------|:-----|
+|[10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)|Excellent starter into Pandas|
 |[Pandas tutorial Data Frames in Python](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)|
 |[Pandas getting started](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)|
 |[Data Munging in Python with Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)|
