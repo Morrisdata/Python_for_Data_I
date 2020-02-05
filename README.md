@@ -64,7 +64,7 @@ WHY NOT 2.7?
 |[Pandas tutorial Data Frames in Python](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)| Data Frames explained|
 |[Pandas getting started](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)|Fundamentals at a deeper level|
 |[Data Munging in Python with Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)|SQL of Python|
-|[How to clean data with Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html) Bottom of page how to clean data with Pandas|
+|[How to clean data with Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)| Bottom of page how to clean data with Pandas|
 |[Cast object to specified Pandas datatype](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.astype.html)|Good code examples|
 |[Pandas Top 10]|(http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/)| Useful and hard to find features |
 |[Essential Basics]|(https://pandas.pydata.org/pandas-docs/stable/getting_started/basics.html)| Build fluency and understanding|
