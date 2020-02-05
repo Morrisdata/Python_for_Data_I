@@ -51,10 +51,8 @@ WHY NOT 2.7?
 |:-------|:-----|
 |[Automate the Boring Stuff](https://automatetheboringstuff.com/)|Review and then a lot more|
 |[Python Language Reference](https://docs.python.org/3/reference/index.html#reference-index)|Good as reference|
-
-
-
 |[Python Standard Library](https://docs.python.org/3/library/index.html)| |
+
 |[Python Tutorial Point](https://www.tutorialspoint.com/python/python_useful_resources.htm)| |
 |[W3 Schools](https://www.w3schools.com/python/default.asp)| good tutorial and reference|
 |[LearningPython](https://www.learnpython.org/) |Review of the above but then begins to progress into NumPy and Pandas|
