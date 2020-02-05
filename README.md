@@ -29,7 +29,7 @@ WHY NOT 2.7?
 
 # Related Workshops
 
-|Homework|Notes|
+|Classes/Workshops|Notes|
 |:-------|:-----|
 |[Intro to Data Analytics 2hrs]| Dialogue and overview on what Data Analytics is, Skills needed and jobs in the field
 |[Python for Data II 6-10hrs]|Lambdas, Jupyter, and more|
@@ -41,7 +41,7 @@ WHY NOT 2.7?
 |[10 Week Data Science]|(TBD)|
 
 
-|Homework|Notes|
+|Other wasy to learn|Notes|
 |:-------|:-----|
 |[Learn Python the Hardway walk through](https://www.youtube.com/playlist?list=PLCHnubFzFwjJVEvQk-FuEynAuwGV_4BNS)|This is a great way to dig into deep basic syntax with a guide!|
 |[Learn Python the Hardway](https://learnpythonthehardway.org/)|Remember that walkthrough video, try it without the video, gets a bit more real after about exercise 15.| 
