@@ -6,11 +6,8 @@ Created on Wed Feb  5 15:18:06 2020
 """
 
 ###############################################################################
-##              FUNCTIONS, PRINTING, MATH, VARIABLES, 3 VALUE LOGIC          ##
-###############################################################################
-###############################################################################
 ##                      PYTHON FOR DATA I - UNIT 2
-##               MATH AND 3 VALUE LOGIC(IF, THEN, ELSE)
+##               MATH, BOOLEAN AND 3 VALUE LOGIC(IF, THEN, ELSE)
 ## IDENTIFIERS and OBJECTS
 ## BASIC MATH
 ## MATH MODULE
