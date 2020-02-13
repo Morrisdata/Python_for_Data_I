@@ -21,8 +21,8 @@ WHY NOT 2.7?
 |UNITS|
 |:----|
 |[01 Python for data Intro](https://github.com/Morrisdata/Python_for_Data_I/tree/master/Workbook)|
-|[02 Math and Boolean]||
-|[03 Conditionals&Functions]|
+|[02 Math, Boolean and 3 value logic]||(https://github.com/Morrisdata/Python_for_Data_I/blob/master/Workbook/PD01Unit02a_Worksheet)
+|[03 Functions]|
 |[04 Data Structures]|
 |[05 Functions]|
 |[06 Loops and Lists]|
