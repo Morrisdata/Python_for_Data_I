@@ -12,11 +12,6 @@ It is up to an individual to work with other courses outside of this workshop in
 # Python for Data
 Download [Anaconda with python 3.6 or 7](https://www.continuum.io/downloads), Pycharm or code editor for exercises
 
-WHY NOT 2.7?
-- 2.7 until recently were better for learning, support and tutorials. 
-- Learning 2.7 is still a huge value and is not terribly different in princple from 3. 
-- Most programs you will be working with, debugging or modifying will be in 2.7
-- Having both on your resume is fantastic.
 
 |UNITS|
 |:----|
