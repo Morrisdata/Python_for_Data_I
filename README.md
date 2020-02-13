@@ -36,7 +36,7 @@ Download [Anaconda with python 3.6 or 7](https://www.continuum.io/downloads), Py
 |[10 Week Data Science]|(TBD)|
 
 
-|Other wasy to learn|Notes|
+|Other ways to learn|Notes|
 |:-------|:-----|
 |[Learn Python the Hardway walk through](https://www.youtube.com/playlist?list=PLCHnubFzFwjJVEvQk-FuEynAuwGV_4BNS)|This is a great way to dig into deep basic syntax with a guide!|
 |[Learn Python the Hardway](https://learnpythonthehardway.org/)|Remember that walkthrough video, try it without the video, gets a bit more real after about exercise 15.| 
