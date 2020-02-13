@@ -43,7 +43,7 @@ x /= 5       #divides
 
 
 #####################
-## 03.09 MATH MODULE
+## MATH MODULE
 #####################
 
 import math   
