@@ -9,7 +9,7 @@ It is up to an individual to work with other courses outside of this workshop in
 * What can you do with Python? Why not learn R or SPSS Modeler?
 * Basic setup covered in [DataScience101](https://github.com/Morrisdata/DataScience101)
 
-# Python for Data
+# Python for Data I
 Download [Anaconda with python 3.6 or 7](https://www.continuum.io/downloads), Pycharm or code editor for exercises
 
 
