@@ -46,8 +46,8 @@ x  5       #divides
 #####################
 
 print((4))    # notice the .dot notation
-print((4.2))  # 4.2 roundup to whole number
-print((4.2)) # 4.2 rounddown to whole number
+print((4.2))  # 4.2 round up to whole number
+print((4.2)) # 4.2 round down to whole number
 print((4.2))  # square root of 4.2
 print((4.2,2)) # 4.2 to the power of 2 (4.2 *4.2)
 
@@ -100,9 +100,9 @@ print("what if we add 1 to b then is  b equal or greater?",)
 a = 5
 b = 10
 c = 15
-# this is different then chaining, you can control the comparisions
-a < 5  a == 1 # if either compariasions are false then false
-a < 5  a == 1 #  if either comparisions are true then true
+# this is different then chaining, you can control the comparisons
+a < 5  a == 1 # if either comparisons are false then false
+a < 5  a == 1 #  if either comparisons are true then true
 a < 5 and not a == 1
 a < 5 or not a == 1
 
@@ -135,7 +135,7 @@ season = "SUMMER"
 
 
 weather == "Sunny" day == "Monday" time == "5am" season == "Winter" 
-print("dont garden")
+print("don't garden")
 weather == "Sunny" day == "Saturday" time == "10am" season == "Spring" 
 print("Garden")
 print("Need more data")

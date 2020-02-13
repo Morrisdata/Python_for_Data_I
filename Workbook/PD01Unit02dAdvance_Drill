@@ -49,8 +49,8 @@ EXERCISE Create several boolean functions:
 ################################
 #---  comparison operators  --- 
 ################################
-# EXERCISE use assign x the value of 10 and then show an example of x 
-# not equalling 11 expecte output: True
+# EXERCISE assign x the value of 10 and then show an example of x 
+# not equalling 11 with expected output: True
 
 
 

@@ -32,12 +32,12 @@ letters (a-z, A-Z, 0-9, _ )
 Rules:
 1)    cannot start with a number          003test
 2)    cannot have a space in the name     test script
-3)    cannnot have a symbol               test#
+3)    cannot have a symbol               test#
 4)    Python is case sensitive, x is not the same as X 
 5)    Avoid underscores _
       double underscores (for example, __init__) have built in use cases
     
-Cannot use Reservered words
+Cannot use Reserved words
 False      class      finally    is         raise
 None       continue   for        lambda     return
 True       def        from       nonlocal   try
@@ -55,7 +55,7 @@ meaningful names, ie age is better than a.
 I have been use things like x and a as identifiers in reality you will want
 to have identifiers with more meaning. There is a balance between something like
 tsrq1 = and Total_Sales_Revenue_Quarter_1 = something in the middle is better and
-using acroynms works if they are understandable and standard at your business.
+using acronyms works if they are understandable and standard at your business.
 tot_sls_revQ1 or totsales_revq1 gives an idea of the balance
 """
 
@@ -215,8 +215,8 @@ print(floor(4.2))
 #Import entire math module
 import math   
 print(math.sqrt(4))    # notice the .dot notation
-print(math.ceil(4.2))  # 4.2 roundup to whole number
-print(math.floor(4.2)) # 4.2 rounddown to whole number
+print(math.ceil(4.2))  # 4.2 round up to whole number
+print(math.floor(4.2)) # 4.2 round down to whole number
 print(math.sqrt(4.2))  # square root of 4.2
 print(math.pow(4.2,2)) # 4.2 to the power of 2 (4.2 *4.2)
 
@@ -305,9 +305,9 @@ print("what if we add 1 to b then is  b equal or greater?",a <= (b + 1))
 a = 5
 b = 10
 c = 15
-# this is different then chaining, you can control the comparisions
-a < 5 and a == 1 # and - if either compariasions are false then false
-a < 5 or a == 1 # or - if either comparisions are true then true
+# this is different then chaining, you can control the comparisons
+a < 5 and a == 1 # and - if either comparisons are false then false
+a < 5 or a == 1 # or - if either comparisons are true then true
 a < 5 and not a == 1
 a < 5 or not a == 1
 
@@ -318,7 +318,7 @@ a < 5 or not a == 1
 
 
 '''
-EXERCISE Create several boolian functions:
+EXERCISE Create several boolean functions:
 1) brings back true
 2) brings back false
 3) uses or and brings back false
@@ -342,8 +342,8 @@ print(x not in [1,2,3,4])
 
 
 
-# EXERCISE use assign x the value of 10 and then show an example of x 
-# not equalling 11 expecte output: True
+# EXERCISE assign x the value of 10 and then show an example of x 
+# not equalling 11 with expected output: True
 
 
 # Variables and Math and identifiers
@@ -362,7 +362,7 @@ Z = 14
 '''
 Initial Markup (IMU) is the difference between the cost and selling price of an 
 item when it is first introduced for sale. 
-It is also called Initial Mark On, Markon or Markup. 
+It is also called Initial Mark On, MarkOn or MarkUp. 
 
 The formula for this calculation is: 
 Selling price – cost = Initial Markup Dollars. 
@@ -394,7 +394,7 @@ pineapple = 49.00
 antip =51.00
 paying = "Terry"
 
-# scenerio 1    
+# scenario 1    
 if ((pineapple/people) * 100) > 50:  
     print ("pineapple does belong on pizza")
 else: 
@@ -415,7 +415,7 @@ season = "SUMMER"
 
 
 if weather == "Sunny" and day == "Monday" and time == "5am" and season == "Winter": 
-    print("dont garden")
+    print("don't garden")
 elif weather == "Sunny" and day == "Saturday" and time == "10am" and season == "Spring": 
     print("Garden")
 else: print("Need more data")
@@ -491,7 +491,7 @@ Here is a list of what they are being sold for
 Jean_price = 60
 Shirt_price = 20
 Shoe_price = 11
-We want to keep our margins begween 2% and 14% 
+We want to keep our margins between 2% and 14% 
 Create a function that evaluates the cost and the sell price
 If it is over 14% bring back directions to markdown
 If it is under 2% bring back directions to markup

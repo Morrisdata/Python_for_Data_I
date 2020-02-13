@@ -54,7 +54,7 @@ print(pet[]) #Expected output at
 
 
 # concatenating ()
-print("hello" ) # add a seperate string "there and concatenate in same print
+print("hello" ) # add a separate string "there and concatenate in same print
 print(5 + ' there')   # cast 5 to a string in order for this to work
 
 

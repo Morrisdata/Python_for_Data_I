@@ -48,8 +48,8 @@ x /= 5       #divides
 
 import math   
 print(math.sqrt(4))    # notice the .dot notation
-print(math.ceil(4.2))  # 4.2 roundup to whole number
-print(math.floor(4.2)) # 4.2 rounddown to whole number
+print(math.ceil(4.2))  # 4.2 round up to whole number
+print(math.floor(4.2)) # 4.2 round down to whole number
 print(math.sqrt(4.2))  # square root of 4.2
 print(math.pow(4.2,2)) # 4.2 to the power of 2 (4.2 *4.2)
 
@@ -102,9 +102,9 @@ print("what if we add 1 to b then is  b equal or greater?",a <= (b + 1))
 a = 5
 b = 10
 c = 15
-# this is different then chaining, you can control the comparisions
-a < 5 and a == 1 # and - if either compariasions are false then false
-a < 5 or a == 1 # or - if either comparisions are true then true
+# this is different then chaining, you can control the comparisons
+a < 5 and a == 1 # and - if either comparisons are false then false
+a < 5 or a == 1 # or - if either comparisons are true then true
 a < 5 and not a == 1
 a < 5 or not a == 1
 
@@ -134,7 +134,7 @@ season = "SUMMER"
 
 
 if weather == "Sunny" and day == "Monday" and time == "5am" and season == "Winter": 
-    print("dont garden")
+    print("don't garden")
 elif weather == "Sunny" and day == "Saturday" and time == "10am" and season == "Spring": 
     print("Garden")
 else: print("Need more data")
