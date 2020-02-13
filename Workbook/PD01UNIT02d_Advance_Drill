@@ -1,0 +1,75 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Feb  5 15:18:06 2020
+
+@author: Matthew Morris
+"""
+###############################################################################
+##                      PYTHON FOR DATA I UNIT02 Advance Drill
+###############################################################################
+'''Try these from memory, it's OK if it doesn't run keep trying to get it to
+work without looking anything up'''
+
+###############################################################################
+#--- BASIC MATH
+###############################################################################
+##EXERCISE build an equation or formula that you use at home or work
+## use various rounding to bring back various precision
+
+
+## EXERCISE find the area of a room use inputs Length x Width = Area
+
+
+
+## EXERCISE use math compression to simplify this statement
+items = 0
+items = items + 42
+print(items)
+
+
+
+#####################
+## MATH MODULE
+#####################
+## EXERCISE using from and import together find the square root of 42
+
+
+
+
+## BOOLEAN
+'''
+EXERCISE Create several boolean functions:
+1) brings back true
+2) brings back false
+3) uses or and brings back false
+4) uses and and brings back true
+'''
+
+    
+################################
+#---  comparison operators  --- 
+################################
+# EXERCISE use assign x the value of 10 and then show an example of x 
+# not equalling 11 expecte output: True
+
+
+
+
+
+###########################################
+## IF THEN ELIF ELSE AND 3 VALUE LOGIC
+###########################################
+
+    
+## EXERCISE 
+"""
+Write an expression using Boolean operators that prints "Eligible" if user_age 
+is greater than 17 and not equal to 25. Ex: 17 prints "Ineligible", 18 prints 
+"Eligible".
+"""
+
+
+## EXERCISE
+''' The final exercise in Unit 2 is a pain. Copy and paste your solution here
+and use commenting to describe what you did. Break up the code a bit. That
+way the comments relate to the code beneath it. '''
