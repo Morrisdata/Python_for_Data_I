@@ -9,22 +9,17 @@ It is up to an individual to work with other courses outside of this workshop in
 * What can you do with Python? Why not learn R or SPSS Modeler?
 * Basic setup covered in [DataScience101](https://github.com/Morrisdata/DataScience101)
 
-# Python for Data
+# Python for Data I
 Download [Anaconda with python 3.6 or 7](https://www.continuum.io/downloads), Pycharm or code editor for exercises
 
-WHY NOT 2.7?
-- 2.7 until recently were better for learning, support and tutorials. 
-- Learning 2.7 is still a huge value and is not terribly different in princple from 3. 
-- Most programs you will be working with, debugging or modifying will be in 2.7
-- Having both on your resume is fantastic.
 
 |UNITS|
 |:----|
 |[01 Python for data Intro](https://github.com/Morrisdata/Python_for_Data_I/tree/master/Workbook)|
 |[02 Math, Boolean and 3 value logic](https://github.com/Morrisdata/Python_for_Data_I/blob/master/Workbook/PD01Unit02a_Worksheet)|
-|[03 Functions]|
-|[04 Data Structures]|
-|[05 Functions]|
+|[03 Functions(args, **kwargs)]|
+|[04 Files]|
+|[05 Data Structures]|
 |[06 Loops and Lists]|
 
 # Related Workshops
