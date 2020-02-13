@@ -25,13 +25,13 @@ them better. Hope this helps you on your journey.
 ## UNIT 5 DATA STRUCTURES
 ## UNIT 6 LOOPS AND LISTS
 ##
-## The class is desinged to be a loop, once you finish you can start over
+## The class is designed to be a loop, once you finish you can start over
 ## and continue to build your program and skills. 
 ###############################################################################
 '''
 Script are eventually meant to be run. 
 Starting out you can do this from a few different places 
-Primarly because, each person may have different setups for there computer. 
+Primarily because, each person may have different setups for there computer. 
 You can have various instances of Python running, firewall issues, versions of
 operating systems. 
 Keeping this in my you may not get configured straight way with the below instructions
@@ -50,7 +50,7 @@ This worked for me but it may not work exactly for you.
   b) Go to start prompt right click and choose run
   c) type sysdm.cpl and OK to open system properties
   d) click on the Advanced tab
-  e) clickon the Environment Variables... button
+  e) click on the Environment Variables... button
   f) In the bottom window, System Variables, choose Path and click New
   g) Click new and type in the Path to your Anaconda folder. 
       ie C:\Users\yourname\AppData\Local\Continuum\anaconda3
@@ -72,7 +72,7 @@ test1()
   h) you should see This is test1
 
 If you have run the above and it is not working you can still go through the class
-unfortunatly troubleshooting can take a long time so try the links above after class
+unfortunately troubleshooting can take a long time so try the links above after class
 if you are having any issues.
 
 You will still be able to test most code in the spyder consol. 
@@ -179,7 +179,7 @@ Explicit is better than implicit
 Simple is better than complex
 Complex is better than complicated
 Readability counts
-to read all of the python philosphy simply run import this.
+to read all of the python philosophy simply run import this.
 '''
 import this #Restart kernal to display again, and again
 
@@ -395,7 +395,7 @@ print('Salary is', wage * hours * weeks)
 
 ## EXERCISE
 """
-Rebuild the Tip Calculator with dyanmic inputs
+Rebuild the Tip Calculator with dynamic inputs
 hint. one input will give an error because it is a float not an int
 
 Bonus: Once you have the script working copy it and past it into its own script
@@ -572,7 +572,7 @@ print("I have %d %r and %d %r") %(c,b,c,a)
 
 """
 #A 'Mad Libs' style game where user enters nouns,
-#verbs, etc., and then a story using those words is ouput.
+#verbs, etc., and then a story using those words is output.
 """
 
 ### EXERCISE FIX THE CODE
@@ -613,7 +613,7 @@ y = "dog"
 z = "Mad_libs is a {} game. I like to play with my {}.".format(x,y)
 print (z)
 
-''' Now you can make a mad libs game in a seperate script and call it like 
+''' Now you can make a mad libs game in a separate script and call it like 
 a program!'''
 
 
@@ -636,7 +636,7 @@ Make a list of skills and score it.
 
 What areas are you doing great in, what areas do you need to study?
 This Project will grow and be designed and redesigned several different ways
-as you progress and revist. You can take step 3 from above and make it a dynamic
+as you progress and revisit. You can take step 3 from above and make it a dynamic
 input. This is your area to create and develop your own program. 
 
 When you have completed the course come back to this lesson
