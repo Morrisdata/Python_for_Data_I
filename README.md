@@ -18,7 +18,7 @@ Download [Anaconda with python 3.6 or 7](https://www.continuum.io/downloads), Py
 |[01 Python for data Intro](https://github.com/Morrisdata/Python_for_Data_I/tree/master/Workbook)|
 |[02 Math, Boolean and 3 value logic](https://github.com/Morrisdata/Python_for_Data_I/blob/master/Workbook/PD01Unit02a_Worksheet)|
 |[03 Functions()](https://github.com/Morrisdata/Python_for_Data_I/blob/master/Workbook/PD01Unit03a_Worksheet.py)|
-|[04 More Functions()]|
+|[04 More Functions()](https://github.com/Morrisdata/Python_for_Data_I/blob/master/Workbook/PD01Unit04a_Worksheet.py)|
 |[05 Files]|
 |[06 Data Structures]|
 |[07 Loops and Lists]|
