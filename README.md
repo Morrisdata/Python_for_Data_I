@@ -12,6 +12,8 @@ It is up to an individual to work with other courses outside of this workshop in
 # Python for Data I
 Download [Anaconda with python 3.6 or 7](https://www.continuum.io/downloads), Pycharm or code editor for exercises
 
+Video walk through of the below units. You do not need the videos but there may be more content or explination. 
+[Python for Data 1 Walk through](https://www.youtube.com/watch?v=4_7V3dzEWF0&list=PL-DpXV0x2lV_Ocr5DLN9R-f60j-4rXLou)
 
 |UNITS|
 |:----|
